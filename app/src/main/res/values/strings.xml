@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Cairo City</string>
+    <string name="Heliopolis">Heliopolis</string>
+    <string name="Champollian_House">Champollian </string>
+    <string name="Baron">Baron_Empain_Palace</string>
+    <string name="down">Prince Said Halim’s Palace, Downtown</string>
+    <string name="Zamalek">Zamalek</string>
+    <string name="l1">2 st landa cairo</string>
+    <string name="kal3a">kal3a</string>
+    <string name="l">22 st lff giza</string>
+    <string name="l3">50 st sarayaa giza</string>
+    <string name="pyramids">pyramids</string>
+    <string name="are">Armenian Embassy</string>
+    <string name="br">burger</string>
+    <string name="chr">Champollian</string>
+    <string name="sr">sky</string>
+    <string name="hr">helnan</string>
+    <string name="rr">rocky</string>
+    <string name="locr1">Prince Said Halim’s Palace</string>
+    <string name="house">the House,</string>
+    <string name="plazaa">plazaa</string>
+    <string name="plaza2">army plaza</string>
+    <string name="helnan">helnan</string>
+    <string name="infotitle">Cairo</string>
+    <string name="helton">helton</string>
+
+    <string name="motel">motel</string>
+    <string name="l4">st Said Halim’s, Downtown</string>
+<string name="info">Cairo is fan-shaped, narrowest in the south, where the river valley is wedged between desert escarpments, and widest in the north, where the valley blends into the delta. Over the centuries the city expanded westward, as a receding river channel left land flood-free. In response to heightened demand, however, the city also has been elongated to the north and south and has developed an expanding annex on the Nile’s western shore. \n
+Cairo has only two seasons: approximately eight months of summer and four months of winter. In the hottest of the summer months—June, July, and August—the average daily maximum temperature is 95 °F (35 °C), and the average daily minimum is 70 °F (21 °C). The summer temperature has reached as high as 117 °F (47 °C). During winter the strong Tropic of Cancer sun makes for warm, dry days, but nights are cool and humid, often freshened by breezes from the Nile. The average daily maximum temperature in January–February is 67 °F (19 °C), and the average daily minimum is 47 °F (8.5 °C).</string>
+<string name="infoo">Information</string>
+    <string name="rest">Resturants</string>
+    <string name="historc">Historical</string>
+    <string name="hotel">Hotels</string>
+    <string name="dis1r">Rated as one of the best Latin American restaurants in the heart of Cairo, Tabla Luna offers both contemporary and classic dishes, such as the aji de gallina, ceviche de camaron and the mouthwatering torta de tres leches dessert. Dishes come from countries such as Peru, Argentina, Mexico,
+    </string>
+    <string name="dis2r"> where guests feel as if in a dream, casts a spell on its guests, and keeps them coming back for more, with its classic Spanish hacienda architecture and décor, creating an exotic atmosphere and bringing the charm of Spain to Cairo
+    </string>
+    <string name="dis3r"> surrounded by 1930s décor. When it comes to the menu, guests have a variety of options, with lunch dishes such as the aubergine haloumi combination; the duck filo in orange sauce; the classic club sandwich;
+    </string>
+    <string name="dis3h">f you’re looking for a holiday paradise, The Nile Ritz Karlton Hotel is a perfect option for you. Located in the heart of Cairo, between Nile River and Tahrir Square,
+    </string>
+    <string name="dis5h">You’ll find the May Fair Hotel in Cairo’s upscale Zamalek district, one of the safest and most active neighbourhoods in the city. Surrounded by a number of embassies, shopping centers and banks, this hotel offers forty newly renovated
+    </string>
+    <string name="dis6h">is a single-story boutique bed and breakfast in downtown Cairo. Bedecked in antique furniture, Egyptian paintings and hand-made Persian carpets, Talisman gives a sense of old Egyptian times,
+    </string>
+    <string name="dis7c"> number one half-day trip and a must-do attraction on everyone\'s itinerary. Right on the edge of the city, on the Giza Plateau, these fourth dynasty funerary temples have been wowing travelers for centuries and continue to be one of the country\'s major highlights. Despite the heat, the dust, and the tourist hustle,</string>
+    <string name="dis8c">he museum was founded in 1857 by French Egyptologist August Mariette and moved to its current home — in the distinctive powder-pink mansion in Downtown Cairo — in 1897. Yes, the collection is poorly labeled and not well set out due to limits of space (and only a fraction of its total holdings are actually on display). It also suffers currently with some empty cases due to artifacts having been transferred to the GEM, but you still can\'t help being impressed by the sheer majesty of the exhibits.
+    </string>
+    <string name="dis9c">he main entrance is the Gate of the Barbers on the northwest side of the building, adjoining the neo-Arab facade built by Abbas II. Leave your shoes at the entrance and walk into the central courtyard. To your right is the El-Taibarsiya Medrese, which has a mihrab (prayer niche) dating from 1309. From the central courtyard, you get the best views of the mosque\'s five minarets,
+    </string>
+    <string name="numh1">+03 445538675</string>
+    <string name="numh2">+03 4455386732</string>
+    <string name="numh3">+03 445531675</string>
+    <string name="numc4">+03 4455383732</string>
+
+    <string name="numh11">+03 455538675</string>
+    <string name="numh22">+03 345386732</string>
+    <string name="numh33">+03 1145531675</string>
+    <string name="numc44">+03 449655383732</string>
+</resources>
